@@ -1,0 +1,16 @@
+[ 2013-10-25T10:23:46+08:00 ] 127.0.0.1 /phpDemo/index.php/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004938s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007731s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001637s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001749s ]
+
+[ 2013-10-25T10:24:01+08:00 ] 127.0.0.1 /phpDemo/index.php/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001517s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001663s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001446s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001570s ]
+
